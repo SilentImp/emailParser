@@ -1,0 +1,22 @@
+{
+  "name": "emailparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentImp/emailParser.git"
+  },
+  "keywords": [],
+  "author": "Anton Nemtsev <thesilentimp@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilentImp/emailParser/issues"
+  },
+  "homepage": "https://github.com/SilentImp/emailParser#readme",
+  "dependencies": {
+    "fastify": "^2.14.1"
+  }
+}
