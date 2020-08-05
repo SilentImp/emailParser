@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/SilentImp/emailParser#readme",
   "dependencies": {
-    "fastify": "^2.14.1"
+    "fastify": "^2.15.1"
   }
 }
